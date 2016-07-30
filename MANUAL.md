@@ -15,5 +15,5 @@
 * The more you know about Computer Science the easier it will be to understand all the new/complex/interesting things out there, if you did not have the luck of having good Computer Science courses learn on your own.
 * The best investment you can make is in your own knowledge, invest your time and money learning and updating on new technology.
 * There will always be people that know less than you and earn more, and viceversa.
-
-**Will be adding new content promptly**
+* Grab a Git Hub tutorial and learn the Git Bash commands, it is better than using the Application that is available to download.
+*  
