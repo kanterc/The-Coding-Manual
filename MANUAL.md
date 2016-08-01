@@ -15,6 +15,5 @@
 * The best investment you can make is in your own knowledge, invest your time and money learning and updating on new technology.
 * There will always be people that know less than you and earn more, and viceversa.
 * Grab a Git Hub tutorial and learn the Git Bash commands, it is better than using the Application that is available to download.
-* Stop doing mental jackoffs
-* RTFM (Read the fucking manual)
+* RTFM (Read the fucking manual).
 * You need to read more code than the one you write.
